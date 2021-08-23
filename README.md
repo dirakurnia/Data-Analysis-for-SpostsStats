@@ -1,4 +1,4 @@
-# Data-Analysis-for-SpostsStats-part-1
+# Data-Analysis-for-SpostsStats
 SQL for Data Science Capstone Project was offered by University of California, Davis in Coursera.
 
 Hi, and welcome to my GitHub. Here I presented all of my codes that's made for accomplishing the project. Before you dive in
